@@ -1,0 +1,222 @@
+@model HakkımızdaModel
+@{
+Layout = "_LayoutSetting";
+}
+
+<link rel="stylesheet" href="~/css/SiteUpdateForm2.css" />
+<section class="iletisimForm">
+    <form asp-action="hakkimizdaCreate" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="HakkımızdaID">
+        <h3>HAKKIMIZDA Güncelleme Formu</h3>
+        <div class="form-container11">
+            <div class="input-file-container22">
+                <label asp-for="Hakkımızdaİmage" class="file-label">Resim 1: Dosya Seç</label>
+            </div>
+            @if (Model != null && Model.Hakkımızdaİmage != null)
+            {
+            <img src="~/img/@Model.Hakkımızdaİmage" class="selected-image" id="selectedImage1" alt="Selected Image 1">
+            <input type="hidden" asp-for="@Model.Hakkımızdaİmage">
+            }
+            <input asp-for="Hakkımızdaİmage" type="file" name="Hakkımızdaİmage" id="Hakkımızdaİmage" />
+
+            <label asp-for="HakkımızdaBaşlık">Başlık 1:</label>
+                <input asp-for="HakkımızdaBaşlık" type="text" name="HakkımızdaBaşlık" />
+    
+                <label asp-for="HakkımızdaAçıklama">Açıklama 1:</label>
+              <textarea asp-for="HakkımızdaAçıklama" name="HakkımızdaAçıklama" rows="9"></textarea>
+             
+
+            <!-- deneme -->
+
+            <div class="table-container">
+                <!-- Personel 1 -->
+                <table  width="80%" style="border: 0.1px solid black;">
+
+                    <tr>
+                        <h3 style="align-items: center; margin-left:150px;">Personel 1 Bilgileri</h3>
+                    </tr>
+                    <tr>
+                            <td>
+                                <div class="input-file-container33">
+                                    <label asp-for="HakkımızdaPersonelİmage1" class="file-label">Resim 2: Dosya Seç</label>                  
+                                </div>
+
+                            </td>
+                            <td>
+
+                                @if (Model != null && Model.HakkımızdaPersonelİmage1 != null)
+                                {
+                                <img src="~/img/@Model.HakkımızdaPersonelİmage1" class="selected-image" id="selectedImage1"
+                                    alt="Selected Image 2">
+                                    <input type="hidden" asp-for="@Model.HakkımızdaPersonelİmage1">
+                                }
+                                <input asp-for="HakkımızdaPersonelİmage1" type="file" name="HakkımızdaPersonelİmage1"
+                                    id="HakkımızdaPersonelİmage1" />
+
+                            </td>
+                        </tr>
+                        <tr>
+                        <td>
+                            <label asp-for="PersonelFullName1">PersonelFullName 1:</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelFullName1" type="text" name="PersonelFullName1" />
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelGörev1">PersonelGörev 1:</label>
+
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelGörev1" type="text" name="PersonelGörev1" />
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelFacebook1">PersonelFacebook 1:</label>
+
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelFacebook1" type="text" name="PersonelFacebook1" />
+
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelGmail1">PersonelGmail 1:</label>
+                        </td>
+                        <td>
+                            <input asp-for="PersonelGmail1" type="text" name="PersonelGmail1" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelLinkledin1">PersonelLinkledin 1:</label>
+                        </td>
+                        <td>
+                            <input asp-for="PersonelLinkledin1" type="text" name="PersonelLinkledin1" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="Personelİnstegram1">Personelİnstegram 1:</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="Personelİnstegram1" type="text" name="Personelİnstegram1" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+          
+
+                <!-- Personel 2 -->
+                <div class="table-container">
+                <table width="80%" style="border: 0.1px solid black;">
+                 
+
+                    <tr>
+                        <h3 style="align-items: center; margin-left:150px;">Personel 2 Bilgileri</h3>
+                    </tr>
+                    <tr>
+                            <td>
+                                <div class="input-file-container22">
+                                    <label asp-for="HakkımızdaPersonelİmage2" class="file-label">Resim 3: Dosya Seç</label>                  
+                                </div>
+
+                            </td>
+                            <td>
+
+                                @if (Model != null && Model.HakkımızdaPersonelİmage2 != null)
+                                {
+                                <img src="~/img/@Model.HakkımızdaPersonelİmage2" class="selected-image" id="selectedImage2"
+                                    alt="Selected Image 2">
+                                    <input type="hidden" asp-for="@Model.HakkımızdaPersonelİmage2">
+                                }
+                                <input asp-for="HakkımızdaPersonelİmage2" type="file" name="HakkımızdaPersonelİmage2"
+                                    id="HakkımızdaPersonelİmage2" />
+
+                            </td>
+                        </tr>
+                        <tr>
+                        <td>
+                            <label asp-for="PersonelFullName2">PersonelFullName 2:</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelFullName2" type="text" name="PersonelFullName2" />
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelGörev2">PersonelGörev 2:</label>
+
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelGörev2" type="text" name="PersonelGörev2" />
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelFacebook2">PersonelFacebook 2:</label>
+
+
+                        </td>
+                        <td>
+                            <input asp-for="PersonelFacebook2" type="text" name="PersonelFacebook2" />
+
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelGmail2">PersonelGmail 2:</label>
+                        </td>
+                        <td>
+                            <input asp-for="PersonelGmail2" type="text" name="PersonelGmail2" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="PersonelLinkledin2">PersonelLinkledin 2:</label>
+                        </td>
+                        <td>
+                            <input asp-for="PersonelLinkledin2" type="text" name="PersonelLinkledin2" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="Personelİnstegram2">Personelİnstegram 2:</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="Personelİnstegram2" type="text" name="Personelİnstegram2" />
+                        </td>
+                    </tr>
+                </table>
+        
+            </div>
+        
+            <div class="button-container44">
+                <button type="submit">Güncelle</button>
+            </div>
+        </div>
+    </form>
+

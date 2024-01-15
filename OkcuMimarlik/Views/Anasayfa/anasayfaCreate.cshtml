@@ -1,0 +1,48 @@
+@model AnasayfaModel
+@{
+Layout = "_LayoutSetting";
+}
+<link rel="stylesheet" href="~/css/SiteUpdateForm.css" />
+<section class="iletisimForm">
+    <form asp-controller="Anasayfa" asp-action="AnasayfaCreate" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="AnasayfaID">
+        <h3>Anasayfa Güncelle Formu</h3>
+        <div class="form-container11">
+            <div class="input-file-container22">
+                <label asp-for="Anasayfaİmage1" class="file-label">Resim 1: Dosya Seç</label>
+            </div>
+            <div>
+                <img src="~/img/@Model.Anasayfaİmage1" class="selected-image" id="selectedImage1" alt="SelectedImage1">
+                <input type="hidden" asp-for="@Model.Anasayfaİmage1" />
+            </div>
+            <input class="selected-image" name="Anasayfaİmage1" type="file" id="Anasayfaİmage1" />
+
+
+            <!-- resim2 -->
+            <div class="input-file-container33">
+                <label asp-for="Anasayfaİmage2" class="file-label">Resim 2: Dosya Seç</label>
+            </div>
+            <div>
+                <img src="~/img/@Model.Anasayfaİmage2" class="selected-image" id="selectedImage2" alt="SelectedImage2">
+                <input type="hidden" asp-for="@Model.Anasayfaİmage2" />
+            </div>
+            <input class="selected-image" name="Anasayfaİmage2" type="file" id="Anasayfaİmage2" />
+
+
+
+            <label asp-for="AnasayfaBaşlık1">Başlık 1:</label>
+            <input asp-for="AnasayfaBaşlık1" type="text" name="AnasayfaBaşlık1" />
+
+            <label asp-for="AnasayfaBaşlık2">Başlık 2:</label>
+            <input asp-for="AnasayfaBaşlık2" type="text" name="AnasayfaBaşlık2" />
+
+            <label asp-for="AnasayfaAçıklama1">Açıklama 1:</label>
+            <textarea asp-for="AnasayfaAçıklama1" name="AnasayfaAçıklama1" rows="9"></textarea>
+
+            <label asp-for="AnasayfaAçıklama2">Açıklama 2:</label>
+            <textarea asp-for="AnasayfaAçıklama2" name="AnasayfaAçıklama2" rows="9"></textarea>
+        </div>
+        <div class="button-container44">
+            <button type="submit">Güncelle</button>
+        </div>
+    </form>

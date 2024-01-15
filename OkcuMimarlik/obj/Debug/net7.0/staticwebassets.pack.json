@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MertProje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MertProje.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\AdminPanel.css",
+      "PackagePath": "staticwebassets\\css\\AdminPanel.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\SiteUpdateForm.css",
+      "PackagePath": "staticwebassets\\css\\SiteUpdateForm.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\SiteUpdateForm2.css",
+      "PackagePath": "staticwebassets\\css\\SiteUpdateForm2.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\adminforms.css",
+      "PackagePath": "staticwebassets\\css\\adminforms.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\anasayfa.css",
+      "PackagePath": "staticwebassets\\css\\anasayfa.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\blogdetay.css",
+      "PackagePath": "staticwebassets\\css\\blogdetay.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\bloglar.css",
+      "PackagePath": "staticwebassets\\css\\bloglar.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\footerUpdate.css",
+      "PackagePath": "staticwebassets\\css\\footerUpdate.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\hakkimizda.css",
+      "PackagePath": "staticwebassets\\css\\hakkimizda.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\iletisim-sendButton.css",
+      "PackagePath": "staticwebassets\\css\\iletisim-sendButton.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\iletisim.css",
+      "PackagePath": "staticwebassets\\css\\iletisim.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\logo.css",
+      "PackagePath": "staticwebassets\\css\\logo.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\musteri.css",
+      "PackagePath": "staticwebassets\\css\\musteri.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\person.css",
+      "PackagePath": "staticwebassets\\css\\person.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\projeDetay.css",
+      "PackagePath": "staticwebassets\\css\\projeDetay.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\projeNextButon.css",
+      "PackagePath": "staticwebassets\\css\\projeNextButon.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\projelerimiz.css",
+      "PackagePath": "staticwebassets\\css\\projelerimiz.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\socialMedia.css",
+      "PackagePath": "staticwebassets\\css\\socialMedia.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\01437a78-acde-46a9-b569-fc29cd30bdfb_img7.avif",
+      "PackagePath": "staticwebassets\\img\\01437a78-acde-46a9-b569-fc29cd30bdfb_img7.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\02549d0a-f414-4f07-a678-3ac51829b15c_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\02549d0a-f414-4f07-a678-3ac51829b15c_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\025e09f2-bae9-4b58-a262-2edadafe972a_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\025e09f2-bae9-4b58-a262-2edadafe972a_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\03d2e62e-8a41-4fd3-8df7-d1d9e82fcc2a_0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\03d2e62e-8a41-4fd3-8df7-d1d9e82fcc2a_0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\04dba4e8-38fb-43a9-9eff-9ce70c62035c_0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg",
+      "PackagePath": "staticwebassets\\img\\04dba4e8-38fb-43a9-9eff-9ce70c62035c_0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\05620e9f-8d0f-4a24-9869-f7d67340bcb7_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\05620e9f-8d0f-4a24-9869-f7d67340bcb7_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\05d2fba6-1704-4d31-9186-dc48bb235bae_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\05d2fba6-1704-4d31-9186-dc48bb235bae_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\075f9f19-74a1-41c9-bc94-d9997279331e_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\075f9f19-74a1-41c9-bc94-d9997279331e_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\09eff91b-53be-49f9-9a56-131181e30ddb_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\09eff91b-53be-49f9-9a56-131181e30ddb_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg",
+      "PackagePath": "staticwebassets\\img\\0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0bc2f21d-4c17-4ca7-94d3-e6fe499ec427_6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\0bc2f21d-4c17-4ca7-94d3-e6fe499ec427_6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg",
+      "PackagePath": "staticwebassets\\img\\0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0de96e1f-3acc-4165-8db3-eccba773888a_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\0de96e1f-3acc-4165-8db3-eccba773888a_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0e245a69-9a3a-45dd-8ea2-53938133f9d4_img6.avif",
+      "PackagePath": "staticwebassets\\img\\0e245a69-9a3a-45dd-8ea2-53938133f9d4_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\12591123-48f6-40e8-b4f5-ee358dbc22a9_ımageBlog.jpg",
+      "PackagePath": "staticwebassets\\img\\12591123-48f6-40e8-b4f5-ee358dbc22a9_ımageBlog.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\14b7f334-4392-418f-8808-9612353e3926_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\14b7f334-4392-418f-8808-9612353e3926_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\14dd76e6-2131-4431-b827-712b27515175_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\14dd76e6-2131-4431-b827-712b27515175_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\1532c2f7-6d4f-4c1d-8c35-97ecdc9f9a2d_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\1532c2f7-6d4f-4c1d-8c35-97ecdc9f9a2d_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\158f1f56-aef6-4815-af90-0f367415361f_eb465680-4763-4d8d-adf1-c39b0a1c84ee_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\158f1f56-aef6-4815-af90-0f367415361f_eb465680-4763-4d8d-adf1-c39b0a1c84ee_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\18272732-2072-4221-ab54-0dac31dd93d4_img7.avif",
+      "PackagePath": "staticwebassets\\img\\18272732-2072-4221-ab54-0dac31dd93d4_img7.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\1941a3fa-3d47-4f0f-a795-b1caa4e3681f_img6.avif",
+      "PackagePath": "staticwebassets\\img\\1941a3fa-3d47-4f0f-a795-b1caa4e3681f_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\1a74c35f-846e-4ea2-9ab5-9a29a2b4626b_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\1a74c35f-846e-4ea2-9ab5-9a29a2b4626b_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\1a7ffcb7-cc8a-41e6-8e7c-4f705d0d3414_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\1a7ffcb7-cc8a-41e6-8e7c-4f705d0d3414_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\20105a57-0008-442f-a2ba-1c777d06c466_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\20105a57-0008-442f-a2ba-1c777d06c466_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\20c1e050-b174-4f98-97d1-420b04523ed1_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\20c1e050-b174-4f98-97d1-420b04523ed1_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2221a981-dadd-4e1f-b644-0a43a95ac538_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\2221a981-dadd-4e1f-b644-0a43a95ac538_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2435da49-d3d0-4091-8e18-fa260401959e_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\2435da49-d3d0-4091-8e18-fa260401959e_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2523070d-6c81-4b8c-b202-fc3e419f4363_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\2523070d-6c81-4b8c-b202-fc3e419f4363_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2a891938-f85a-439b-8e45-55380e5ac853_mert_profil_fotosu.jpg.jpeg",
+      "PackagePath": "staticwebassets\\img\\2a891938-f85a-439b-8e45-55380e5ac853_mert_profil_fotosu.jpg.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2aa41149-cfcc-4bba-894b-994e6a6ac027_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\2aa41149-cfcc-4bba-894b-994e6a6ac027_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2bacb478-b9d3-47a5-8b81-2cdc74862b28_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\2bacb478-b9d3-47a5-8b81-2cdc74862b28_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\2df5db5d-7734-4ffc-854d-dc48adec0577_whatsapp.jpg",
+      "PackagePath": "staticwebassets\\img\\2df5db5d-7734-4ffc-854d-dc48adec0577_whatsapp.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\32bab42f-c1f4-4bf1-93b0-d50e6f1575dc_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\32bab42f-c1f4-4bf1-93b0-d50e6f1575dc_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\333e8983-b341-4341-b357-344ab8be418d_3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\333e8983-b341-4341-b357-344ab8be418d_3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\383e2d9d-bae7-48c4-a090-7fed935771c2_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\383e2d9d-bae7-48c4-a090-7fed935771c2_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\3e048d3d-b16e-497d-abbe-a4b75940982b_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\3e048d3d-b16e-497d-abbe-a4b75940982b_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\4226dcf6-3f73-49b6-951a-a6c97ba12bc6_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\4226dcf6-3f73-49b6-951a-a6c97ba12bc6_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\428144e4-dfe1-4212-85a8-f1a32c36a257_0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg",
+      "PackagePath": "staticwebassets\\img\\428144e4-dfe1-4212-85a8-f1a32c36a257_0b56d411-0c6e-4d52-b771-d9ec52bf913d_img1araba.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\45d2f7b1-82c1-4128-b30d-ab13f000849d_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\45d2f7b1-82c1-4128-b30d-ab13f000849d_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\48667afa-311f-47ab-a3cb-5ef0e0f61b0f_Ekran Görüntüsü (112).png",
+      "PackagePath": "staticwebassets\\img\\48667afa-311f-47ab-a3cb-5ef0e0f61b0f_Ekran Görüntüsü (112).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg",
+      "PackagePath": "staticwebassets\\img\\4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\4c53e872-4567-4c99-80eb-14228b1b5d51_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\4c53e872-4567-4c99-80eb-14228b1b5d51_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\4c5aa835-b97a-48e2-82bf-3e42fc1d6a5a_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\4c5aa835-b97a-48e2-82bf-3e42fc1d6a5a_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\51409476-d1e0-45b5-9ab0-3c4c6c8f0dd5_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\51409476-d1e0-45b5-9ab0-3c4c6c8f0dd5_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\519699fd-2024-415f-a666-0dd697f37572_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\519699fd-2024-415f-a666-0dd697f37572_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\53ca48bc-6dea-4952-9451-d3d3ff7259d6_Ekran Görüntüsü (4).png",
+      "PackagePath": "staticwebassets\\img\\53ca48bc-6dea-4952-9451-d3d3ff7259d6_Ekran Görüntüsü (4).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\568eb198-6e4a-4916-9233-315750ec46f6_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\568eb198-6e4a-4916-9233-315750ec46f6_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\58e28498-5cad-42cb-86bd-46fce73bfea7_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\58e28498-5cad-42cb-86bd-46fce73bfea7_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\5ddee03d-5032-49ee-9699-1426ea12db33_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\5ddee03d-5032-49ee-9699-1426ea12db33_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\5eae1adf-e6e6-4bc4-afd1-708ebf93d34a_img7.avif",
+      "PackagePath": "staticwebassets\\img\\5eae1adf-e6e6-4bc4-afd1-708ebf93d34a_img7.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\5f19f279-163f-4d84-90a2-a1c7e14a98ed_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\5f19f279-163f-4d84-90a2-a1c7e14a98ed_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\6106d08f-900d-4e3d-9181-cbc61ffc86eb_ımageAnasayfa.jpg",
+      "PackagePath": "staticwebassets\\img\\6106d08f-900d-4e3d-9181-cbc61ffc86eb_ımageAnasayfa.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\626dc9b1-1acb-4799-978c-997a2255fe3f_56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\626dc9b1-1acb-4799-978c-997a2255fe3f_56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\63704751-b5b3-4507-b6ce-46e3e573c5b0_img2.avif",
+      "PackagePath": "staticwebassets\\img\\63704751-b5b3-4507-b6ce-46e3e573c5b0_img2.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\639491a3-470c-449f-9f81-f0175501ebfa_WhatsApp Image 2023-12-09 at 16.48.13.jpeg",
+      "PackagePath": "staticwebassets\\img\\639491a3-470c-449f-9f81-f0175501ebfa_WhatsApp Image 2023-12-09 at 16.48.13.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\63fb7682-3800-41ae-b08d-5b09696d0682_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\63fb7682-3800-41ae-b08d-5b09696d0682_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\6443a769-a5c6-4800-aa63-f8193ceccf5a_Ekran Görüntüsü (114).png",
+      "PackagePath": "staticwebassets\\img\\6443a769-a5c6-4800-aa63-f8193ceccf5a_Ekran Görüntüsü (114).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\670fe2b5-5d42-4eea-974d-c82de49612fb_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\670fe2b5-5d42-4eea-974d-c82de49612fb_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\67edc980-6d3d-4789-8851-4953a7d2b53b_img11.jpeg",
+      "PackagePath": "staticwebassets\\img\\67edc980-6d3d-4789-8851-4953a7d2b53b_img11.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\6a490079-b3d4-48ec-9c7a-b1be5c078fa2_4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg",
+      "PackagePath": "staticwebassets\\img\\6a490079-b3d4-48ec-9c7a-b1be5c078fa2_4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\71aad5c4-2edc-42e1-9c6e-707b4419afe2_7bd4f934-852e-46c9-b100-6d1cc762b0d8_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\71aad5c4-2edc-42e1-9c6e-707b4419afe2_7bd4f934-852e-46c9-b100-6d1cc762b0d8_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7293f97e-db59-4334-958a-fec9d1ec1f65_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\7293f97e-db59-4334-958a-fec9d1ec1f65_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\73246b7f-a9da-4280-9de8-4572c85293cb_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\73246b7f-a9da-4280-9de8-4572c85293cb_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\754363a4-aa1f-4c3c-bfde-cb7a996570dd_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\754363a4-aa1f-4c3c-bfde-cb7a996570dd_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\774f888a-09ea-4c43-9f05-411cae7996b3_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg",
+      "PackagePath": "staticwebassets\\img\\774f888a-09ea-4c43-9f05-411cae7996b3_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7865604d-1bf3-4a52-bf3d-eadbc03847a2_6106d08f-900d-4e3d-9181-cbc61ffc86eb_ımageAnasayfa.jpg",
+      "PackagePath": "staticwebassets\\img\\7865604d-1bf3-4a52-bf3d-eadbc03847a2_6106d08f-900d-4e3d-9181-cbc61ffc86eb_ımageAnasayfa.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\78a562a7-8db3-42e2-90bb-abddd842023d_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\78a562a7-8db3-42e2-90bb-abddd842023d_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7a274cf9-9912-475f-b8ec-c253fdd46f65_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\7a274cf9-9912-475f-b8ec-c253fdd46f65_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7bd4f934-852e-46c9-b100-6d1cc762b0d8_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\7bd4f934-852e-46c9-b100-6d1cc762b0d8_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7bd52637-90c4-4a23-bf05-aae91645328c_ımageAnasayfa.jpg",
+      "PackagePath": "staticwebassets\\img\\7bd52637-90c4-4a23-bf05-aae91645328c_ımageAnasayfa.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7c3c8a5e-705a-4bd4-a09b-bd2bb1420150_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\7c3c8a5e-705a-4bd4-a09b-bd2bb1420150_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7ec44615-9d13-44e6-91a1-2121a80f6a9a_img6.avif",
+      "PackagePath": "staticwebassets\\img\\7ec44615-9d13-44e6-91a1-2121a80f6a9a_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\81b43736-032b-48ef-8675-ca3e75ec288b_img12.jpg",
+      "PackagePath": "staticwebassets\\img\\81b43736-032b-48ef-8675-ca3e75ec288b_img12.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8207e0bc-1eac-45b0-9acb-4311ac6ffc33_img8.avif",
+      "PackagePath": "staticwebassets\\img\\8207e0bc-1eac-45b0-9acb-4311ac6ffc33_img8.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\84159659-f6f8-4147-9541-526fd15f3f0b_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\84159659-f6f8-4147-9541-526fd15f3f0b_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\88b5c52c-0b41-48d4-8529-ea5a63758188_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\88b5c52c-0b41-48d4-8529-ea5a63758188_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\88de4ca1-08f3-48b0-b0de-7c15e5f10a37_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\88de4ca1-08f3-48b0-b0de-7c15e5f10a37_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\89570ff5-aca9-4487-ab06-a4b20c029437_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\89570ff5-aca9-4487-ab06-a4b20c029437_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8acf2f55-65a8-41bf-9c43-7e054a771f8c_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\8acf2f55-65a8-41bf-9c43-7e054a771f8c_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8b803759-06c6-48d0-b097-9b89cd98e7af_58e28498-5cad-42cb-86bd-46fce73bfea7_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\8b803759-06c6-48d0-b097-9b89cd98e7af_58e28498-5cad-42cb-86bd-46fce73bfea7_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8caa03e0-2aa1-4005-8a6e-84d73e5b2fac_0e245a69-9a3a-45dd-8ea2-53938133f9d4_img6.avif",
+      "PackagePath": "staticwebassets\\img\\8caa03e0-2aa1-4005-8a6e-84d73e5b2fac_0e245a69-9a3a-45dd-8ea2-53938133f9d4_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8cb9851a-b9bb-4053-9392-01e9bc8e6401_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\8cb9851a-b9bb-4053-9392-01e9bc8e6401_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8d174199-43ac-4000-9413-a5af4e5897a6_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg",
+      "PackagePath": "staticwebassets\\img\\8d174199-43ac-4000-9413-a5af4e5897a6_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\8f0bea3f-35cb-4eca-9b97-947329870896_img3.avif",
+      "PackagePath": "staticwebassets\\img\\8f0bea3f-35cb-4eca-9b97-947329870896_img3.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\94f296c6-af12-4bac-8200-7f62f61a810e_WhatsApp Image 2023-12-10 at 01.34.49.jpeg",
+      "PackagePath": "staticwebassets\\img\\94f296c6-af12-4bac-8200-7f62f61a810e_WhatsApp Image 2023-12-10 at 01.34.49.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\95890c15-33c2-43e6-ae02-c194d8d81ad6_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\95890c15-33c2-43e6-ae02-c194d8d81ad6_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9618aa4f-2d02-4be0-8602-827563be0362_OGUSAN.jpeg",
+      "PackagePath": "staticwebassets\\img\\9618aa4f-2d02-4be0-8602-827563be0362_OGUSAN.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\96cbfb7f-b638-4a9c-bfb8-05cb72d16ceb_ımagefooter4.jpg",
+      "PackagePath": "staticwebassets\\img\\96cbfb7f-b638-4a9c-bfb8-05cb72d16ceb_ımagefooter4.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\98069ca1-885f-4f1b-86b2-1614601b7f4d_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\98069ca1-885f-4f1b-86b2-1614601b7f4d_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9817d956-38e7-4089-90bc-d16c85148c9b_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\9817d956-38e7-4089-90bc-d16c85148c9b_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\982e37db-12a8-4d05-ad99-a574b94d593f_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\982e37db-12a8-4d05-ad99-a574b94d593f_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9987424e-b63f-4662-b71a-dbf2f524bef6_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\9987424e-b63f-4662-b71a-dbf2f524bef6_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9c948712-e0dc-488b-b959-c66545832015_img4.avif",
+      "PackagePath": "staticwebassets\\img\\9c948712-e0dc-488b-b959-c66545832015_img4.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9ea5947c-73d8-4a27-b5d0-07d06a3c58c2_7c3c8a5e-705a-4bd4-a09b-bd2bb1420150_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\9ea5947c-73d8-4a27-b5d0-07d06a3c58c2_7c3c8a5e-705a-4bd4-a09b-bd2bb1420150_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\9f6b5f79-ba47-4072-9ef3-e06e3f7a76a2_img3.avif",
+      "PackagePath": "staticwebassets\\img\\9f6b5f79-ba47-4072-9ef3-e06e3f7a76a2_img3.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\a06c814e-bf83-4e97-ae49-c38c84b64e99_img5.avif",
+      "PackagePath": "staticwebassets\\img\\a06c814e-bf83-4e97-ae49-c38c84b64e99_img5.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\a757cca4-d1b7-42b5-a627-d9a3dda255e0_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg",
+      "PackagePath": "staticwebassets\\img\\a757cca4-d1b7-42b5-a627-d9a3dda255e0_0dd496eb-c262-4acd-b06d-0752bd95f12a_ımageAnasayfa1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\a869d1f8-970f-4eb1-ade8-59f543abfe7e_img12.jpg",
+      "PackagePath": "staticwebassets\\img\\a869d1f8-970f-4eb1-ade8-59f543abfe7e_img12.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\a89dab42-67a8-428d-af17-f67158d7d857_0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\a89dab42-67a8-428d-af17-f67158d7d857_0e798a07-a7d4-4cce-90d8-bb4af0975285_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ac90557a-9bd6-47fc-80d8-0d80efed69cf_Ekran Görüntüsü (21).png",
+      "PackagePath": "staticwebassets\\img\\ac90557a-9bd6-47fc-80d8-0d80efed69cf_Ekran Görüntüsü (21).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ad7a7312-cd62-45a4-9e91-e344f9d7d6e3_0bc2f21d-4c17-4ca7-94d3-e6fe499ec427_6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\ad7a7312-cd62-45a4-9e91-e344f9d7d6e3_0bc2f21d-4c17-4ca7-94d3-e6fe499ec427_6e6df994-c111-49fd-b0d1-2c4123a7ecf2_d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ae0270d0-49fa-4f2b-ae68-5a7752775374_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\ae0270d0-49fa-4f2b-ae68-5a7752775374_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ae7971d2-b7c6-4475-b3f5-28cc710f6108_img8.avif",
+      "PackagePath": "staticwebassets\\img\\ae7971d2-b7c6-4475-b3f5-28cc710f6108_img8.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b0eb4686-e233-4b5d-9758-1c9af6dd50d0_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\b0eb4686-e233-4b5d-9758-1c9af6dd50d0_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b1cbc30c-4561-4112-85b0-583b30ebd77f_45d2f7b1-82c1-4128-b30d-ab13f000849d_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\b1cbc30c-4561-4112-85b0-583b30ebd77f_45d2f7b1-82c1-4128-b30d-ab13f000849d_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b3d9e36a-a6de-4c7c-9409-2904a153c6c7_2221a981-dadd-4e1f-b644-0a43a95ac538_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\b3d9e36a-a6de-4c7c-9409-2904a153c6c7_2221a981-dadd-4e1f-b644-0a43a95ac538_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b48ab8ba-36c2-422e-9273-5527af2450d0_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\b48ab8ba-36c2-422e-9273-5527af2450d0_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b5e0fffb-654e-4068-892c-b5f62e79c1e3_05d2fba6-1704-4d31-9186-dc48bb235bae_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\b5e0fffb-654e-4068-892c-b5f62e79c1e3_05d2fba6-1704-4d31-9186-dc48bb235bae_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\b9864910-0865-488b-ba7d-90e43d99694d_img7.avif",
+      "PackagePath": "staticwebassets\\img\\b9864910-0865-488b-ba7d-90e43d99694d_img7.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\badccc2f-1091-4f67-b3f5-94e41616c2dc_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\badccc2f-1091-4f67-b3f5-94e41616c2dc_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\bce8a525-3531-46a0-8ade-5f26c6bf88e3_4c5aa835-b97a-48e2-82bf-3e42fc1d6a5a_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\bce8a525-3531-46a0-8ade-5f26c6bf88e3_4c5aa835-b97a-48e2-82bf-3e42fc1d6a5a_4bed67bf-5151-4cfb-a024-315691659c0d_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\bd68e051-3e31-4686-8349-d74d3af58659_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\bd68e051-3e31-4686-8349-d74d3af58659_1d825711-43dc-4c87-bf8b-750e27b7a012_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c131796b-1d5d-458d-989a-25e8a76dac06_img4.avif",
+      "PackagePath": "staticwebassets\\img\\c131796b-1d5d-458d-989a-25e8a76dac06_img4.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c3512964-afc9-4f99-b900-bcd126010928_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\c3512964-afc9-4f99-b900-bcd126010928_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c461c550-7e99-4d21-b122-8eaa97c11865_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\c461c550-7e99-4d21-b122-8eaa97c11865_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c644ba94-5763-48cf-9f08-ebd99f485cee_img6.avif",
+      "PackagePath": "staticwebassets\\img\\c644ba94-5763-48cf-9f08-ebd99f485cee_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c8427a8d-59c1-4567-883f-05adbbd690ba_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\c8427a8d-59c1-4567-883f-05adbbd690ba_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c901d18d-3446-428a-8d53-d83644f1f5e1_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\c901d18d-3446-428a-8d53-d83644f1f5e1_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\c9fcf855-bfd6-405c-8333-3d1af4ea0679_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\c9fcf855-bfd6-405c-8333-3d1af4ea0679_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ca194f36-fab1-4886-94df-ea980a967661_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\ca194f36-fab1-4886-94df-ea980a967661_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\cd9618f6-8c76-4d3a-b88f-6e2ab1300495_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\cd9618f6-8c76-4d3a-b88f-6e2ab1300495_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\cf434462-4c42-4612-b84f-a3736c85062c_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\cf434462-4c42-4612-b84f-a3736c85062c_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\cf45f6aa-e976-4a54-b63c-1d63172e087e_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\cf45f6aa-e976-4a54-b63c-1d63172e087e_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\d0d984e6-b2c9-4583-9c37-8adf250561d7_ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\d12ac4bb-ef91-4bcd-b37d-25ceb9f2454c_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\d12ac4bb-ef91-4bcd-b37d-25ceb9f2454c_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\d86712f0-ffa0-4f82-81c1-03adb3871a9c_img8.avif",
+      "PackagePath": "staticwebassets\\img\\d86712f0-ffa0-4f82-81c1-03adb3871a9c_img8.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\d91d48bd-bbb4-4043-ac42-4fb62443e4b4_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\d91d48bd-bbb4-4043-ac42-4fb62443e4b4_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e0a74f40-753c-4506-9cec-196499af065a_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\e0a74f40-753c-4506-9cec-196499af065a_01ca05c1-75ca-4b39-852a-56aabc8f81fa_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e1b09584-cc15-4f74-b7cb-56792a33bca4_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\e1b09584-cc15-4f74-b7cb-56792a33bca4_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e23a1c12-92ec-41b9-ac10-3efc8b5604c0_1a74c35f-846e-4ea2-9ab5-9a29a2b4626b_PROFİL RESMİ.jpg",
+      "PackagePath": "staticwebassets\\img\\e23a1c12-92ec-41b9-ac10-3efc8b5604c0_1a74c35f-846e-4ea2-9ab5-9a29a2b4626b_PROFİL RESMİ.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e289e0ab-11f3-40e0-b232-9ff3d700b53e_img12.jpg",
+      "PackagePath": "staticwebassets\\img\\e289e0ab-11f3-40e0-b232-9ff3d700b53e_img12.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e479d722-5d61-45b5-bce7-e2bc03a4be0d_img11.jpeg",
+      "PackagePath": "staticwebassets\\img\\e479d722-5d61-45b5-bce7-e2bc03a4be0d_img11.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e4c059b0-18b6-46e0-8594-cec06aaf8f32_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\img\\e4c059b0-18b6-46e0-8594-cec06aaf8f32_9bb9616f-94e3-4905-81f5-220b8e66ce2a_Ekran Görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e61bb876-3d90-4e5d-be51-99f4ae24accb_626dc9b1-1acb-4799-978c-997a2255fe3f_56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\e61bb876-3d90-4e5d-be51-99f4ae24accb_626dc9b1-1acb-4799-978c-997a2255fe3f_56c9afa4-40e2-4755-af08-c258d1354cf4_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e704b2df-e4fa-4291-88c6-548b2fcdeca7_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\e704b2df-e4fa-4291-88c6-548b2fcdeca7_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e796edb8-3bff-428c-a5ba-28d37a071fad_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\e796edb8-3bff-428c-a5ba-28d37a071fad_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e8046185-a95d-479c-81ba-312e55b22cfc_4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg",
+      "PackagePath": "staticwebassets\\img\\e8046185-a95d-479c-81ba-312e55b22cfc_4abcaf48-a3cf-47ca-8e84-7b48c0c436c6_img11.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e900012b-bce7-4006-a173-6bf0cf2e1b5c_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\e900012b-bce7-4006-a173-6bf0cf2e1b5c_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e976dd4f-2b3e-4d0e-afe4-a52499a19688_3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\e976dd4f-2b3e-4d0e-afe4-a52499a19688_3ee867db-6375-46b0-b3a6-dd10eee7f33d_ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\e9a345d3-2edb-491c-8974-f4d0981e384c_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\e9a345d3-2edb-491c-8974-f4d0981e384c_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\eac43c99-f376-4556-b36c-321a59b15790_img4.avif",
+      "PackagePath": "staticwebassets\\img\\eac43c99-f376-4556-b36c-321a59b15790_img4.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\eb465680-4763-4d8d-adf1-c39b0a1c84ee_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\eb465680-4763-4d8d-adf1-c39b0a1c84ee_54aab40b-8716-41a3-a616-242bf2650e88_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ec9adc23-aa8a-483c-b903-3c112859a3d5_Ekran Görüntüsü (102).png",
+      "PackagePath": "staticwebassets\\img\\ec9adc23-aa8a-483c-b903-3c112859a3d5_Ekran Görüntüsü (102).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ed93b4e0-136d-4731-b787-5055b011465c_5f19f279-163f-4d84-90a2-a1c7e14a98ed_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\ed93b4e0-136d-4731-b787-5055b011465c_5f19f279-163f-4d84-90a2-a1c7e14a98ed_7ed03587-101e-401d-b8ad-f3d93cc655ee_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\f7894315-aaf3-4ce1-8094-3c2e81c1e3e8_WhatsApp Image 2023-09-19 at 22.03.21.jpeg",
+      "PackagePath": "staticwebassets\\img\\f7894315-aaf3-4ce1-8094-3c2e81c1e3e8_WhatsApp Image 2023-09-19 at 22.03.21.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\f7c35714-e14e-4706-9021-eb15f20368c8_img6.avif",
+      "PackagePath": "staticwebassets\\img\\f7c35714-e14e-4706-9021-eb15f20368c8_img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\f819d9b6-152b-436c-86d9-54b7e88ab2e8_05620e9f-8d0f-4a24-9869-f7d67340bcb7_ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\f819d9b6-152b-436c-86d9-54b7e88ab2e8_05620e9f-8d0f-4a24-9869-f7d67340bcb7_ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\f85e23ae-432c-448e-8146-9074393a741e_mert profil fotosu - 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\f85e23ae-432c-448e-8146-9074393a741e_mert profil fotosu - 2.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\fa5fc386-ba6b-4c7e-baf3-6d37c4e02ab6_ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\fa5fc386-ba6b-4c7e-baf3-6d37c4e02ab6_ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\fbddf777-2a49-4acf-af08-4e5948ebbb7f_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\fbddf777-2a49-4acf-af08-4e5948ebbb7f_2a8ca291-cfee-4989-9461-c9a900567f6b_0b4d28f7-c500-493a-9a77-d75965bf4b74_ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ff86a379-d47d-42ec-9f20-809dd6baa842_Ekran Görüntüsü (1).png",
+      "PackagePath": "staticwebassets\\img\\ff86a379-d47d-42ec-9f20-809dd6baa842_Ekran Görüntüsü (1).png"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\img6.avif",
+      "PackagePath": "staticwebassets\\img\\img6.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\img8.avif",
+      "PackagePath": "staticwebassets\\img\\img8.avif"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\whatsapp.jpg",
+      "PackagePath": "staticwebassets\\img\\whatsapp.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageAnasayfa.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageAnasayfa.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageAnasayfa0.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageAnasayfa0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageAnasayfa1.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageAnasayfa1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageAnasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageAnasayfa2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageBlog.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageBlog.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageHakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageHakkımızda.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageHakkımızda0.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageHakkımızda0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımageHakkımızda1.jpg",
+      "PackagePath": "staticwebassets\\img\\ımageHakkımızda1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\img\\ımagefooter4.jpg",
+      "PackagePath": "staticwebassets\\img\\ımagefooter4.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\js\\adminpanel.js",
+      "PackagePath": "staticwebassets\\js\\adminpanel.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\js\\adminpasword.js",
+      "PackagePath": "staticwebassets\\js\\adminpasword.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\js\\iletisim.js",
+      "PackagePath": "staticwebassets\\js\\iletisim.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\MertMimarlikSitesi\\MertİnşaatŞirketi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MertProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MertProje.props",
+      "PackagePath": "build\\MertProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MertProje.props",
+      "PackagePath": "buildMultiTargeting\\MertProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MertProje.props",
+      "PackagePath": "buildTransitive\\MertProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
